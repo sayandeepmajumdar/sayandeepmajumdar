@@ -1,5 +1,6 @@
+<div id="header" align="center">
 ![giphy](https://user-images.githubusercontent.com/33932068/170242230-5ce05afb-0d5f-4bb3-bdec-2c2a75de965d.gif)
-
+</div>
 
 ### Hi there 👋
 
