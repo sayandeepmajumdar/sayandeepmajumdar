@@ -1,7 +1,6 @@
 <div id="header" align="center">
-![giphy](https://user-images.githubusercontent.com/33932068/170242230-5ce05afb-0d5f-4bb3-bdec-2c2a75de965d.gif)
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 ### Hi there 👋
 
 <!--
