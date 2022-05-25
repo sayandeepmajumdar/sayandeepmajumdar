@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/mesayandeep" target="blank"><img src="https://img.shields.io/twitter/follow/mesayandeep?logo=twitter&style=for-the-badge" alt="mesayandeep" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **sayandeepmajumdar.official@gmail.com**
 
-- ⚡ Fun fact **I would love to play cricket**
+- ⚡ Fun fact **I'm friendly 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
