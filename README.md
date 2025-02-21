@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/sayandeepmajumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sayandeepmajumdar" height="30" width="40" /></a>
 <a href="https://dev.to/sayandeepmajumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sayandeepmajumdar" height="30" width="40" /></a>
-<a href="https://twitter.com/mesayandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesayandeep" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/connectwithsayandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connectwithsayandeep" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6769952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6769952" height="30" width="40" /></a>
 <a href="https://kaggle.com/sayandeepdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayandeepdev" height="30" width="40" /></a>
