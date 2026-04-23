@@ -7,14 +7,14 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/sayandeepmajumdar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayandeepmajumdar&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="sayandeepmajumdar's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayandeepmajumdar&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="sayandeepmajumdar's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=sayandeepmajumdar&theme=dark&hide_border=true&cache_seconds=86400" alt="sayandeepmajumdar's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sayandeepmajumdar&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="sayandeepmajumdar's GitHub Streak" width="49%" />
 </p>
 
 
@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/sayandeepmajumdar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sayandeepmajumdar&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sayandeepmajumdar&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
